@@ -25,7 +25,7 @@ Or run it from source.
 	git clone https://github.com/parttimenerd/KITCrawler
 	cd KITCrawler
 	bundle install
-``
+```
 
 
 Usage
