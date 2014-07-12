@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name        = 'kitcrawler'
-  	s.version     = '0.1.1'
+  	s.version     = '0.1.0'
     s.date        = '2014-07-12'
 	s.summary     = "Fetch lecture PDFs with ease"
 	s.description = <<-EOF

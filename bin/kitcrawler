@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 
-#require 'kitcrawler'
-require_relative '../lib/kitcrawler.rb'
+begin
+	require_relative '../lib/kitcrawler.rb'
+rescue
+	require 'kitgrawler'
+end
+
 KITCrawler::run_cli
